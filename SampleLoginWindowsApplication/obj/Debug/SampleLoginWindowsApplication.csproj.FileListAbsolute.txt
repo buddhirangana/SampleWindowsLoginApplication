@@ -1,0 +1,8 @@
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\bin\Debug\SampleLoginWindowsApplication.exe
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\bin\Debug\SampleLoginWindowsApplication.exe.config
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.Form1.resources
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.Form2.resources
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.Properties.Resources.resources
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.csproj.GenerateResource.Cache
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.exe
+E:\Project\C# Project\SampleLoginWindowsApplication\SampleLoginWindowsApplication\obj\Debug\SampleLoginWindowsApplication.pdb

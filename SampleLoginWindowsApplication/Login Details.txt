@@ -1,0 +1,6 @@
+--- Sample Login Windows Application --- 
+
+Username: User
+Password: Password
+
+Use this "Username" & "Password" to Login this Application.
